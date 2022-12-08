@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an AI researcher pursuing my Ph.D. in the Software & Digital Business Group at Technical University of Darmstadt. Additionally, I work as a freelance data scientist & ML engineer, mainly organizing workshops for organizations from different industries (e.g., finance, manufacturing).
+I'm a data scientist at Heraeus, working on incorporating AI into the manufacturing workflow. Formerly, I was an AI researcher in the Software & Digital Business Group at Technical University of Darmstadt.
 
 #### Research
 
@@ -27,6 +27,7 @@ My main research interests are human-AI interaction (especially, explainable AI)
 
 Ever since completing my first ML course during my Master's study back in 2015, I have been interested in all things ML engineering and data science. Lately, I've dived a lot into MLOps, i.e., the automation of data and ML pipelines. Some of my personal work highlights include:
 
+- Implementing and deploying deep learning models for visual inspection and key information extraction.
 - Delivering in-person and virtual ML workshops at a large financial institution and a employers' association from the manufacturing industry (see [repo](https://github.com/felixpeters/ml-workflow-tools)).
 - Completing two data science projects with the sales department of a large public transport company.
 - Completing multiple side projects, e.g., visual inspections of capsules (see [repo](https://github.com/felixpeters/capsule-inspection)) and predicting tweet engagement (see [repo](https://github.com/felixpeters/tweet-engagement-prediction)).
